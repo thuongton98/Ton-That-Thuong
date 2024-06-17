@@ -1,0 +1,7 @@
+- Use the same type and declare more when it is similar
+- Undeclared BoxProps does not need to be extendeds
+- The type of children has not been declared
+- prices are not used in the Sorted Balance function and do not need to be sent to the dependent memo to avoid showing
+- Wrong name lhsPriority, it should be balancePriority
+- The sorted Balance function uses a reducer that is simpler and more concise and more accessible
+- The Balance format function is used in the sort balance function to make it more compact and better
